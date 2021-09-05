@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on communication systems.
 - 💻 I'm FPGA L. 
 - 🌱 I’m currently learning stochastic algorithm.
-- <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/man-technologist_1f468-200d-1f4bb.png" width="40px" /> Swift/ JavaScript / Python / VS Code. 
+-  VHDL / Verilog / C / C++. 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/koseali/koseali)
 ![pv](https://komarev.com/ghpvc/?username=koseali)
