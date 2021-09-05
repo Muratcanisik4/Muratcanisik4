@@ -2,7 +2,7 @@
 <img align="right" height="290" src="https://github.com/Muratcanisik4/Muratcanisik44/blob/main/muratGif.gif" />
 
 - 🔭 I’m currently working on communication systems.
-- 💻 I'm FPGA L. 
+- 💻 I'm FPGA Lover. 
 - 🌱 I’m currently learning stochastic algorithm.
 -  VHDL / Verilog / C / C++. 
 
