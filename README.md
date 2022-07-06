@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on communication systems.
 - 💻 I'm FPGA Lover. 
-- 🌱 I’m currently learning stochastic algorithm.
+- 🌱 I’m currently working on Multi-FPGA System Applications.
 -  VHDL / Verilog / C / C++. 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/koseali/koseali)
