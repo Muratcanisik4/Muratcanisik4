@@ -1,7 +1,7 @@
 ### Hi there, I'm Murat Can Isik <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 <img align="right" height="290" src="https://github.com/Muratcanisik4/Muratcanisik44/blob/main/muratGif.gif" />
 
-- 🔭 I’m currently working on communication systems.
+- 
 - 💻 I'm FPGA Lover. 
 - 🌱 I’m currently working on Multi-FPGA System Applications.
 -  VHDL / Verilog / C / C++. 
